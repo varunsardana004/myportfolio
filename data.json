@@ -1,14 +1,14 @@
 {
-    "name": "Bharat Agsrwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
+    "name": "Varun Sardana ",
+    "title": " Mobile Application Developer (iOS and Android)",
     "intro": "Some introduction of yours and it can be as much as large",
     "skills": [{
             "title": "Skill 1",
-            "rating": "90"
+            "rating": "88"
         },
         {
             "title": "Skill 2",
-            "rating": "97"
+            "rating": "90"
         },
         {
             "title": "Skill 3",
@@ -25,7 +25,7 @@
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
+        "location": "Chitkara University University",
         "phone": "xxxxxxxxxx",
         "email": "xxxxxx@xxxx.xxx"
     }
